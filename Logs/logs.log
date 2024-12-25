@@ -1,0 +1,25 @@
+[INFO ] 2024-12-20 00:51:03.226 [main] LoggerManager - Starting InValid login test
+[INFO ] 2024-12-20 00:51:03.233 [main] LoggerManager - Navigating to Login tab
+[INFO ] 2024-12-20 00:51:03.378 [main] LoggerManager - Entering username
+[INFO ] 2024-12-20 00:51:03.539 [main] LoggerManager - Entering invalid password
+[INFO ] 2024-12-20 00:51:03.672 [main] LoggerManager - Clicking on login button
+[INFO ] 2024-12-20 00:51:10.190 [main] LoggerManager - Starting Valid login test
+[INFO ] 2024-12-20 00:51:10.191 [main] LoggerManager - Navigating to Login tab
+[INFO ] 2024-12-20 00:51:10.343 [main] LoggerManager - Entering username
+[INFO ] 2024-12-20 00:51:10.499 [main] LoggerManager - Entering valid password
+[INFO ] 2024-12-20 00:51:10.650 [main] LoggerManager - Clicking on login button
+
+[INFO ] 2024-12-25 20:33:42.376 [main] LoggerManager - Starting InValid login test
+[INFO ] 2024-12-25 20:33:42.382 [main] LoggerManager - Navigating to Login tab
+[INFO ] 2024-12-25 20:33:42.530 [main] LoggerManager - Entering username
+[INFO ] 2024-12-25 20:33:42.675 [main] LoggerManager - Entering invalid password
+[INFO ] 2024-12-25 20:33:42.796 [main] LoggerManager - Clicking on login button
+[INFO ] 2024-12-25 20:33:50.558 [main] LoggerManager - Starting Valid login test
+[INFO ] 2024-12-25 20:33:50.558 [main] LoggerManager - Navigating to Login tab
+[ERROR] 2024-12-25 20:33:50.559 [main] LoggerManager - Failed to login due to exception occuredCannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+[INFO ] 2024-12-25 20:33:59.206 [main] LoggerManager - Starting Valid login test
+[INFO ] 2024-12-25 20:33:59.206 [main] LoggerManager - Navigating to Login tab
+[ERROR] 2024-12-25 20:33:59.207 [main] LoggerManager - Failed to login due to exception occuredCannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+[INFO ] 2024-12-25 20:34:04.702 [main] LoggerManager - Starting Valid login test
+[INFO ] 2024-12-25 20:34:04.702 [main] LoggerManager - Navigating to Login tab
+[ERROR] 2024-12-25 20:34:04.703 [main] LoggerManager - Failed to login due to exception occuredCannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
